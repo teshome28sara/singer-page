@@ -1,0 +1,69 @@
+.heading{
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+
+img{
+    width: 400px;
+    
+    float: right;
+    padding: 5px;
+} 
+main{
+    background-color: black;
+   height: 100vh;
+}
+p{
+    color: blue;
+} 
+body{
+    background-color: blue;
+   
+}
+h2{ 
+    text-indent: 2%;
+    color: black;
+    
+}
+
+#vdiv{
+   text-align: left;
+}
+a{
+    color: black;
+} 
+
+ 
+
+
+    
+
+#par{
+    background: black;
+    color: blue;
+    text-align: center;
+    padding: 2%;
+    margin-top: 1%;
+} 
+#factButton{
+    width: 100%;
+    background: black;
+    color: blue;
+    padding-top: 2px;
+}
+   
+
+
+
+#vdiv{
+    text-align: right;
+} 
+
+li{
+    color: black;
+}
+
+
+

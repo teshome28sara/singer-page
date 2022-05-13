@@ -1,0 +1,10 @@
+#box{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    margin: 25px;
+} 
+#btns{
+    text-align: center;
+}
+

@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+} 
+
+.p0{
+    color: blue;
+} 
+
+.p1{
+    font-size: 30px;
+} 
+
+#p2{
+    text-align: center;
+}
+
+#p3{
+    font-weight: 900;
+} 
+
+#p4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#p5{
+    font-size: 25px;
+    font-weight: 600;
+    color: orange;
+} 
+
+#styledImage{
+    border: 1px solid blue;
+} 
+
+#divp{
+    text-align: center;
+}
+
+
+
+
+
